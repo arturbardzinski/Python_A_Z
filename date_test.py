@@ -2,7 +2,7 @@ from datetime import datetime
 
 def date_now():
     now = datetime.now()
-    print(now.year)
-    return
+    return now.strftime('%Y')
 
-date_now()
+x = date_now()
+print(x)
