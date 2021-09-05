@@ -2,8 +2,9 @@
 *.txt
 *.csv
 *.xml
-
+.DS_Store
 .idea/
+__pycache__
 
 # Created by https://www.gitignore.io/api/macos,linux,django,python,pycharm
 
