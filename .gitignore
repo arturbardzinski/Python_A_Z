@@ -3,7 +3,6 @@
 *.csv
 *.xml
 *.iml
-idea/
 .DS_Store
 .idea/
 __pycache__
